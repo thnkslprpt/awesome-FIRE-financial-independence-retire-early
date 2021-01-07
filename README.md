@@ -28,7 +28,7 @@ Repository with resources for those interested in FIRE (Financial Independence, 
 - [Australia](https://www.reddit.com/r/fiaustralia/)
 - [Europe](https://www.reddit.com/r/EuropeFIRE/)
   - [U.K.](https://www.reddit.com/r/FIREUK/)
-  - Germany [here](https://www.reddit.com/r/fireGermany/) or [here](https://www.reddit.com/r/Finanzen/)
+  - Germany: [here](https://www.reddit.com/r/fireGermany/) or [here](https://www.reddit.com/r/Finanzen/)
   - [The Netherlands](https://www.reddit.com/r/DutchFIRE/)
   - [Spain](https://www.reddit.com/r/SpainFIRE/)
   - [Poland](https://www.reddit.com/r/PolandFIRE/)
