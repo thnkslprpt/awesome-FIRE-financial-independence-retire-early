@@ -5,6 +5,7 @@ Repository with resources for those interested in FIRE (Financial Independence, 
 ## Contents
 - [Mr. Money Mustache](#mr.-money-mustache-pete-adeney)
 - [Reddit](#reddit)
+- [Early Retirement Extreme](#early-retirement-extreme)
 
 ## Mr. Money Mustache (Pete Adeney)
 - [Blog Home Page](https://www.mrmoneymustache.com)
