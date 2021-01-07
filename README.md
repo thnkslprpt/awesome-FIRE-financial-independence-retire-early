@@ -13,8 +13,8 @@ Repository with resources for those interested in FIRE (Financial Independence, 
   - [Getting Rich: from Zero to Hero in One Blog Post](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post)
   - [The 4% Rule: The Easy Answer to “How Much Do I Need for Retirement?”](https://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/)
 - [Forum](https://forum.mrmoneymustache.com/)
-  
-- Mr. Money Mustache (Pete Adeney) [WDS 2016 Keynote](https://www.youtube.com/watch?v=8BDWih309wc)
+
+- Mr. Money Mustache (Pete Adeney) [WDS 2016 Keynote](https://youtu.be/8BDWih309wc)
 
 ## Reddit
 - FIRE [subreddit](https://www.reddit.com/r/financialindependence)
