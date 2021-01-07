@@ -33,3 +33,7 @@ Repository with resources for those interested in FIRE (Financial Independence, 
   - [Poland](https://www.reddit.com/r/PolandFIRE/)
   - [Switzerland](https://www.reddit.com/r/SwissFIRE/)
   - [Ireland](https://www.reddit.com/r/iefire/)
+
+## Early Retirement Extreme
+- [Blog Home Page](http://earlyretirementextreme.com/)
+- [Forum](https://forum.earlyretirementextreme.com/)
