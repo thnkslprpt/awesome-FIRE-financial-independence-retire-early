@@ -3,7 +3,7 @@
 Repository with resources for those interested in FIRE (Financial Independence, Retire Early)
 
 ## Contents
-- [Mr. Money Mustache](#mr.-money-mustache)
+- [Mr. Money Mustache](#mr-money-mustache)
 - [Reddit](#reddit)
 - [Early Retirement Extreme](#early-retirement-extreme)
 
