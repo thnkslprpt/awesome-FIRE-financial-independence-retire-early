@@ -3,11 +3,11 @@
 Repository with resources for those interested in FIRE (Financial Independence, Retire Early)
 
 ## Contents
-- [Mr. Money Mustache](#mr.-money-mustache-pete-adeney)
+- [Mr. Money Mustache](#mr.-money-mustache)
 - [Reddit](#reddit)
 - [Early Retirement Extreme](#early-retirement-extreme)
 
-## Mr. Money Mustache (Pete Adeney)
+## Mr. Money Mustache
 - [Blog Home Page](https://www.mrmoneymustache.com)
   - [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement)
   - [Getting Rich: from Zero to Hero in One Blog Post](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post)
