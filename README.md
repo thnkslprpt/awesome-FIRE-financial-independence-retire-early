@@ -6,6 +6,7 @@ Repository with resources for those interested in FIRE (Financial Independence, 
 - [Mr. Money Mustache](#mr-money-mustache)
 - [Reddit](#reddit)
 - [Early Retirement Extreme](#early-retirement-extreme)
+- [JL Collins](#jl-collins)
 - [Podcasts](#podcasts)
 
 ## Mr. Money Mustache
