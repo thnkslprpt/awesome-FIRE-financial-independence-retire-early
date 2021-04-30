@@ -3,11 +3,15 @@
 Repository with resources for those interested in FIRE (Financial Independence, Retire Early)
 
 ## Contents
+- [Wikipedia](#wikipedia)
 - [Mr. Money Mustache](#mr-money-mustache)
 - [Reddit](#reddit)
 - [Early Retirement Extreme](#early-retirement-extreme)
 - [JL Collins](#jl-collins)
 - [Podcasts](#podcasts)
+
+## Wikipedia
+- [Wikipedia FIRE Page](https://www.wikiwand.com/en/FIRE_movement)
 
 ## Mr. Money Mustache
 - [Blog Home Page](https://www.mrmoneymustache.com)
