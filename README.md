@@ -40,6 +40,9 @@ Repository with resources for those interested in FIRE (Financial Independence, 
   - [Poland](https://www.reddit.com/r/PolandFIRE/)
   - [Switzerland](https://www.reddit.com/r/SwissFIRE/)
   - [Ireland](https://www.reddit.com/r/iefire/)
+  - [Belgium](https://www.reddit.com/r/BEFire/)
+  - [Italy](https://www.reddit.com/r/FireIT/)
+- [India](https://www.reddit.com/r/FIREIndia/)
 
 ## Early Retirement Extreme
 - [Blog Home Page](http://earlyretirementextreme.com/)
