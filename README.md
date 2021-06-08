@@ -43,6 +43,7 @@ Repository with resources for those interested in FIRE (Financial Independence, 
   - [Belgium](https://www.reddit.com/r/BEFire/)
   - [Italy](https://www.reddit.com/r/FireIT/)
 - [India](https://www.reddit.com/r/FIREIndia/)
+- [Israel](https://www.reddit.com/r/IsraelFIRE/)
 
 ## Early Retirement Extreme
 - [Blog Home Page](http://earlyretirementextreme.com/)
