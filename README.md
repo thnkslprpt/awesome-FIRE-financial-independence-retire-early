@@ -27,11 +27,14 @@ Repository with resources for those interested in FIRE (Financial Independence, 
   - FIRE subreddit [FAQ](https://www.reddit.com/r/financialindependence/wiki/faq)
 - LeanFIRE [subreddit](https://www.reddit.com/r/leanfire/)
 - FatFIRE [subreddit](https://www.reddit.com/r/fatFIRE/)
+- FamilyFIRE [subreddit](https://www.reddit.com/r/familyfire/)
 
 - US-centric [FIRE Decision Flowchart v4.2](https://u.cubeupload.com/demonlesondledon/FIREFlowChart.png)
 
 ### Country/Region-Specific FIRE Subreddits
 - [Australia](https://www.reddit.com/r/fiaustralia/)
+- [India](https://www.reddit.com/r/FIREIndia/)
+- [Israel](https://www.reddit.com/r/IsraelFIRE/)
 - [Europe](https://www.reddit.com/r/EuropeFIRE/)
   - [U.K.](https://www.reddit.com/r/FIREUK/)
   - Germany: [here](https://www.reddit.com/r/fireGermany/) or [here](https://www.reddit.com/r/Finanzen/)
@@ -42,8 +45,6 @@ Repository with resources for those interested in FIRE (Financial Independence, 
   - [Ireland](https://www.reddit.com/r/iefire/)
   - [Belgium](https://www.reddit.com/r/BEFire/)
   - [Italy](https://www.reddit.com/r/FireIT/)
-- [India](https://www.reddit.com/r/FIREIndia/)
-- [Israel](https://www.reddit.com/r/IsraelFIRE/)
 
 ## Early Retirement Extreme
 - [Blog Home Page](http://earlyretirementextreme.com/)
