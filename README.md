@@ -54,6 +54,10 @@ Repository with resources for those interested in FIRE (Financial Independence, 
 - [Blog](https://jlcollinsnh.com/)
 - [Stock Series](https://jlcollinsnh.com/stock-series/)
 
+## Calculators & Apps
+
+- [IndepAI](https://indepai.app) - Financial independence calculator built for international FIRE. Computes your FI score and FIRE number, shows geo-arbitrage opportunities across 11,800+ cities, and includes free Coast FIRE and Barista FIRE calculators. Covers 180+ tax regimes and 7 languages — the non-US-centric alternative to US-only FIRE calculators.
+
 ## Podcasts
 - [FI Europe](https://financial-independence.eu/)
 - [Mad Fientist](https://www.madfientist.com/podcast/)
