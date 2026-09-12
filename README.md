@@ -54,6 +54,9 @@ Repository with resources for those interested in FIRE (Financial Independence, 
 - [Blog](https://jlcollinsnh.com/)
 - [Stock Series](https://jlcollinsnh.com/stock-series/)
 
+## Benchmarks & Data
+- [Firenomics](https://firenomics.com/): open benchmarks and leaderboards for FIRE math - withdrawal-rate research, retirement horizon analysis, and reproducible calculators.
+
 ## Podcasts
 - [FI Europe](https://financial-independence.eu/)
 - [Mad Fientist](https://www.madfientist.com/podcast/)
