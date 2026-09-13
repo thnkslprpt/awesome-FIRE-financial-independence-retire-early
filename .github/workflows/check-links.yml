@@ -1,0 +1,31 @@
+name: Check links
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - ".github/workflows/check-links.yml"
+  pull_request:
+    paths:
+      - "README.md"
+  schedule:
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Check README links
+        uses: lycheeverse/lychee-action@v2.9.0
+        with:
+          args: --verbose --no-progress README.md
+          fail: true
