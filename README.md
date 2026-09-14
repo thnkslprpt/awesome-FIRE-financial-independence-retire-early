@@ -18,7 +18,7 @@ A curated collection of high-quality resources for people interested in FIRE (Fi
 ## Start Here
 
 * [Wikipedia - FIRE Movement](https://en.wikipedia.org/wiki/FIRE_movement)
-* [r/financialindependence FAQ](https://www.reddit.com/r/financialindependence/wiki/faq)
+* [r/financialindependence FAQ](https://www.reddit.com/r/financialindependence/wiki/faq/)
 * [The Shockingly Simple Math Behind Early Retirement - Mr. Money Mustache](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
 * [FIRE Flow Chart v4.3](https://www.reddit.com/r/financialindependence/comments/16xymii/) - a detailed U.S.-centric financial decision flowchart
 
@@ -94,7 +94,7 @@ A curated collection of high-quality resources for people interested in FIRE (Fi
 * [Getting Rich: From Zero to Hero in One Blog Post](https://www.mrmoneymustache.com/2013/02/22/getting-rich-from-zero-to-hero-in-one-blog-post/)
 * [The 4% Rule: The Easy Answer to "How Much Do I Need for Retirement?"](https://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/)
 * [Forum](https://forum.mrmoneymustache.com/)
-* [Mr. Money Mustache (Pete Adeney) - WDS 2016 Keynote](https://youtu.be/8BDWih309wc)
+* [Mr. Money Mustache (Pete Adeney) - WDS 2016 Keynote](https://vimeo.com/183016901)
 
 ### Early Retirement Extreme
 
@@ -123,7 +123,7 @@ A curated collection of high-quality resources for people interested in FIRE (Fi
 ## Podcasts
 
 * [Mad Fientist - Financial Independence Podcast](https://www.madfientist.com/podcast/)
-* [ChooseFI Podcast](https://www.choosefi.com/listen/choose-fi-podcast/)
+* [ChooseFI Podcast](https://choosefi.com/listen)
 * [Financial Independence Europe Podcast](https://podcasts.apple.com/gb/podcast/financial-independence-europe-podcast/id1390576636) - European-focused archive; last published in 2023
 
 ## Books
